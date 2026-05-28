@@ -122,18 +122,6 @@ I'm a **Backend Developer** and **Data Engineer** passionate about building reli
   <a href="https://github.com/Jvarshith0963" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  &nbsp;
-  <a href="https://medium.com/@Jvarshith0963" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@Jvarshith0963" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/Jvarshith0963" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
 </p>
 
 ---
