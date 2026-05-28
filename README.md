@@ -92,7 +92,7 @@ I'm a **Backend Developer** and **Data Engineer** passionate about building reli
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jvarshith0963&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jvarshith0963&theme=tokyonight&hide_border=true" width="48%" alt="Streak Stats"/>
@@ -100,17 +100,17 @@ I'm a **Backend Developer** and **Data Engineer** passionate about building reli
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvarshith0963&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
-</p>
+</p> -->
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jvarshith0963&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub Trophies"/>
 </p>
 
----
+--- -->
 
 ## 🤝 Let's Connect
 
